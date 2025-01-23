@@ -155,7 +155,7 @@ const EditJob = () => {
 
                             {/* Company */}
                             <div className="row">
-                                <label htmlFor="company">Company</label>
+                                <label htmlFor="company">Bank</label>
                                 <input
                                     type="text"
                                     id="company"

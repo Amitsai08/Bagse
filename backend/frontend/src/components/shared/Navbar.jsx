@@ -16,6 +16,9 @@ const Navbar = ({ navbarRef }) => {
                     <NavLink className="nav-item hidden sm:block" to="/dashboard">
                         Dashboard
                     </NavLink>
+                    <a className="nav-item hidden sm:block" href="https://bankagentbridgegrievanceportal.vercel.app/" target="_blank" rel="noopener noreferrer">
+    Grievance
+</a>
                     <NavLink className="nav-item" to="/login">
                         <span className="bg-[#247BF7] text-white px-6 py-2 rounded"> Login</span>
                     </NavLink>

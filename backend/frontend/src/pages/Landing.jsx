@@ -23,16 +23,18 @@ const Landing = () => {
             <Wrapper ref={heroRef}>
                 <div className="hero-content">
                     <div className="text-content">
-                        <h1>
-                            Get Your <span className="fancy">Dream Job </span> 
-                            Today!
+                    <h1>
+                        Join Your <span className="fancy">Dream Bank </span>
+                        Today!
                         </h1>
                         <p>
-                            Lorem ipsum dolor, sit amet consectetur adipisicing
-                            elit. Illo perferendis dignissimos eligendi voluptas
-                            exercitationem, eius aut mollitia quasi nisi
-                            voluptatem similique, tempore totam, odit
-                            repellendus non. Dolores eos animi recusandae.
+                        The Bank Agent Bridge is a cutting-edge platform designed to
+              revolutionize this process by seamlessly connecting banks with
+              qualified agents through an intuitive, secure, and collaborative
+              digital solution. By automating and digitizing the agent selection
+              process, the Bank Agent Bridge addresses critical challenges such
+              as inconsistent communication and limited visibility into agent
+              qualifications.
                         </p>
                         <div className="btn-grp">
                             <Link className="btn" to="/all-jobs">

@@ -78,7 +78,7 @@ const Admin = () => {
                             {data?.recruiter}
                         </div>
                         <div class="relative z-10 text-blue-100 leading-none font-semibold">
-                            Recruiters
+                            Banks
                         </div>
                         <svg
                             fill="none"
@@ -101,7 +101,7 @@ const Admin = () => {
                             {data?.applicant}
                         </div>
                         <div class="relative z-10 text-blue-100 leading-none font-semibold">
-                            Applicants
+                            Agents
                         </div>
                         <svg
                             fill="none"

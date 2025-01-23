@@ -45,7 +45,7 @@ const Applicant = () => {
                         <tr>
                             <th>#</th>
                             <th>Job Position</th>
-                            <th>Company</th>
+                            <th>Bank</th>
                             <th>Status</th>
                             {/* <th>actions</th> */}
                         </tr>

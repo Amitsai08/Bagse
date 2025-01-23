@@ -21,8 +21,8 @@ const Footer = () => {
                   />
                 </a>
                 <p className="mb-7 text-base text-body-color dark:text-dark-6">
-                  Sed ut perspiciatis undmnis is iste natus error sit amet
-                  voluptatem totam rem aperiam.
+                Empowering seamless connections between banks and skilled
+                agents for a smarter, more efficient financial future. 
                 </p>
                 <p className="flex items-center text-sm font-medium text-dark dark:text-white">
                   <span className="mr-3 text-primary">
@@ -54,29 +54,29 @@ const Footer = () => {
                       </defs>
                     </svg>
                   </span>
-                  <span>+012 (345) 678 99</span>
+                  <span>+91 9563084242</span>
                 </p>
               </div>
             </div>
 
             <LinkGroup header="Resources">
-              <NavLink link="/#" label="SaaS Development" />
-              <NavLink link="/#" label="Our Products" />
-              <NavLink link="/#" label="User Flow" />
-              <NavLink link="/#" label="User Strategy" />
-            </LinkGroup>
-            <LinkGroup header="Company">
-              <NavLink link="/#" label="About TailGrids" />
-              <NavLink link="/#" label="Contact & Support" />
-              <NavLink link="/#" label="Success History" />
-              <NavLink link="/#" label="Setting & Privacy" />
-            </LinkGroup>
-            <LinkGroup header="Quick Links">
-              <NavLink link="/#" label="Premium Support" />
-              <NavLink link="/#" label="Our Services" />
-              <NavLink link="/#" label="Know Our Team" />
-              <NavLink link="/#" label="Download App" />
-            </LinkGroup>
+  <NavLink link="/#" label="Agent Training" />
+  <NavLink link="/#" label="Bank Partnerships" />
+  <NavLink link="/#" label="Agent Certification" />
+  <NavLink link="/#" label="Conversion Rates" />
+</LinkGroup>
+<LinkGroup header="Company">
+  <NavLink link="/#" label="About Us" />
+  <NavLink link="/#" label="Contact & Support" />
+  <NavLink link="/#" label="Our Success" />
+  <NavLink link="/#" label="Privacy Policy" />
+</LinkGroup>
+<LinkGroup header="Quick Links">
+  <NavLink link="/#" label="Become an Agent" />
+  <NavLink link="/#" label="Our Services" />
+  <NavLink link="/#" label="Meet Our Team" />
+  <NavLink link="/#" label="Client Testimonials" />
+</LinkGroup>
 
             <div className="w-full px-4 sm:w-1/2 lg:w-3/12">
               <div className="mb-10 w-full">
@@ -138,7 +138,7 @@ const Footer = () => {
                   </a>
                 </div>
                 <p className="text-base text-body-color dark:text-dark-6">
-                  &copy; 2025 Job Portal
+                  &copy; 2025 BankAgentBridge.
                 </p>
               </div>
             </div>

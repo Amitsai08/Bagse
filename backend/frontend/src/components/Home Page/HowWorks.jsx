@@ -45,10 +45,13 @@ const links = [
         </div>
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl lg:mx-0">
-            <h2 className="md:text-3xl text-2xl font-bold tracking-tight text-white">How Job Portal Works</h2>
+            <h2 className="md:text-3xl text-2xl font-bold tracking-tight text-white">How BankAgentBridge Portal Works</h2>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-              fugiat veniam occaecat fugiat aliqua.
+            A job portal is an online platform where job seekers create
+            profiles, upload resumes, and apply for jobs, while employers post
+            vacancies and review applications. It acts as a bridge, matching
+            candidates with relevant job opportunities based on skills and
+            preferences.
             </p>
           </div>
           <div className="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">

@@ -683,9 +683,9 @@ axios@^1.6.2:
     mongoose "^8.0.0"
     nanoid "3"
 
-"Bagse@file:../..":
+"BAGSE@file:..":
   version "1.0.0"
-  resolved "file:../.."
+  resolved "file:.."
   dependencies:
     bcrypt "^5.1.1"
     cookie-parser "^1.4.6"

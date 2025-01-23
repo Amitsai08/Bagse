@@ -52,7 +52,7 @@ const Landing = () => {
             <HowWorks/>
             <Team/>
             <Testimonial/>
-            <Brands/>
+            
             </div>
         </>
     );
